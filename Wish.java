@@ -1,1 +1,5 @@
-Hi, Hello
+
+
+class Wish{
+    Hi, Hello
+}
